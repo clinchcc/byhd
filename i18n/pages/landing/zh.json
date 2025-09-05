@@ -3,10 +3,10 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "陪玩电竞",
+      "title": "BYHD",
       "logo": {
         "src": "/logo.png",
-        "alt": "PWDJ"
+        "alt": "BYHD"
       },
       "url": "/"
     },
@@ -43,14 +43,14 @@
     "show_locale": true
   },
   "hero": {
-    "title": "开源安卓软件下载",
-    "description": "免费+安全+可用+最新！",
+    "title": "免费软件下载",
+    "description": "免费+安全+可用",
     "announcement": {
       "label": "开源",
-      "title": "🎉 免费安卓软件下载",
+      "title": "🎉 免费软件下载",
       "url": "/zh/category"
     },
-    "tip": "🎁 免费安卓软件下载",
+    "tip": "🎁 免费软件下载",
     "buttons": [
       {
         "title": "立即开始",
@@ -64,7 +64,7 @@
     "show_badge": false
   },
   "branding": {
-    "title": "安卓软件下载",
+    "title": "软件下载",
     "items": [
       {
         "title": "Next.js",
@@ -410,7 +410,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard",
-        "product_name": "陪玩电竟 高级会员",
+        "product_name": "BYHD 高级会员",
         "credits": 20000,
         "valid_months": 50
       },
@@ -438,7 +438,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium",
-        "product_name": "陪玩电竟 白金会员",
+        "product_name": "BYHD 白金会员",
         "credits": 50000,
         "valid_months": 120
       }
@@ -447,14 +447,14 @@
   "testimonial": {
     "name": "testimonial",
     "label": "用户评价",
-    "title": "用户如何评价 PWDJ.com",
-    "description": "听听使用 PWDJ.com 启动绿色软件的开发者和创始人怎么说。",
+    "title": "用户如何评价 BYHD.com",
+    "description": "听听使用 BYHD.com 启动绿色软件的开发者和创始人怎么说。",
     "icon": "GoThumbsup",
     "items": [
       {
         "title": "陈小明",
         "label": "安卓玩家",
-        "description": "PWDJ 是我的必备网站！所有安卓软件都是免费的，而且更新特别快。最喜欢的是游戏专区，很多热门游戏的修改版都能在这找到，太赞了！",
+        "description": "BYHD 是我的必备网站！所有安卓软件都是免费的，而且更新特别快。最喜欢的是游戏专区，很多热门游戏的修改版都能在这找到，太赞了！",
         "image": {
           "src": "/imgs/users/1.png"
         }
@@ -535,18 +535,18 @@
   },
   "cta": {
     "name": "cta",
-    "title": "启动您的第一个安卓软件",
-    "description": "从这里开始，使用 PWDJ.com 启动。",
+    "title": "启动您的第一个软件",
+    "description": "从这里开始，使用 BYHD.com 启动。",
     "buttons": [
       {
-        "title": "获取 PWDJ.com",
-        "url": "https://pwdj.com",
+        "title": "获取 BYHD.com",
+        "url": "https://byhd.com",  
         "target": "_blank",
         "icon": "GoArrowUpRight"
       },
       {
         "title": "阅读文档",
-        "url": "https://pwdj.com",
+        "url": "https://byhd.com",
         "target": "_blank",
         "variant": "outline"
       }
@@ -555,15 +555,15 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "PWDJ.com",
-      "description": "PWDJ.com 专注于安卓软件的下载站。",
+      "title": "BYHD.com",
+      "description": "BYHD.com 专注于软件的下载站。",
       "logo": {
         "src": "/logo.png",
-        "alt": "PWDJ.com"
+        "alt": "BYHD.com"
       },
       "url": "/en"
     },
-    "copyright": "© 2025 • PWDJ.com 保留所有权利。",
+    "copyright": "© 2025 • BYHD.com 保留所有权利。",
     "nav": {
       "items": [
         {
@@ -610,12 +610,12 @@
           "title": "友情链接",
           "children": [
             {
-              "title": "PWDJ",
+              "title": "BYHD",
               "url": "#",
               "target": "_self"
             },
             {
-              "title": "陪玩电竟",
+              "title": "BYHD",
               "url": "#",
               "target": "_self"
             }
@@ -647,7 +647,7 @@
         {
           "title": "邮箱",
           "icon": "RiMailLine",
-          "url": "mailto:support@pwdj.com",
+          "url": "mailto:support@byhd.com",
           "target": "_self"
         }
       ]

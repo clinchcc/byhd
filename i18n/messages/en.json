@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "APP Download | PWDJ",
-    "description": "PWDJ provides various types of APP downloads, including system tools, office software, image processing, audio/video tools, programming development, and more.",
-    "keywords": "PWDJ, APP download, system tools, office software, image processing, audio/video tools, programming development"
+    "title": "Software Download | BYHD",
+    "description": "BYHD is a reliable software download platform offering a wide range of applications, including system utilities, office productivity tools, image editing software, audio and video converters, programming development kits, and more. Fast, safe, and easy software downloads at byhd.com.",
+    "keywords": "BYHD, software download platform, free software downloads, system utilities, office software, productivity tools, image editing, photo processing, audio tools, video tools, media converters, programming development, developer tools, application downloads"
   },
   "user": {
     "sign_in": "Sign In",
@@ -80,7 +80,7 @@
   },
   "blog": {
     "title": "Blog",
-    "description": "News, resources, and updates about PWDJ",
+    "description": "News, resources, and updates about BYHD",
     "read_more_text": "Read More"
   }
 }

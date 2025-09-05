@@ -32,7 +32,7 @@
   },
   "my_orders": {
     "title": "我的订单",
-    "description": "在 PWDJ 上购买的订单。",
+    "description": "在 BYHD 上购买的订单。",
     "no_orders": "未找到订单",
     "tip": "",
     "activate_order": "激活订单",
@@ -80,7 +80,7 @@
   },
   "blog": {
     "title": "博客",
-    "description": "关于 PWDJ 文章资讯和教程",
+    "description": "关于 BYHD 文章资讯和教程",
     "read_more_text": "阅读更多"
   }
 }

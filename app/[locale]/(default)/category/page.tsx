@@ -129,12 +129,12 @@ export function generateMetadata({ params }: { params: { locale: string } }) {
 
   const metadata = {
     zh: {
-      title: '陪玩电竞软件分类',
-      description: '陪玩电竞提供各种类型软件下载，包括系统工具、办公软件、图像处理、音视频工具、编程开发等多个分类的优质软件',
+      title: 'BYHD软件分类',
+      description: 'BYHD提供各种类型软件下载，包括系统工具、办公软件、图像处理、音视频工具、编程开发等多个分类的优质软件',
     },
     en: {
-      title: 'PWDJ Software Categories',
-      description: 'PWDJ provides various types of software downloads, including system tools, office software, image processing, audio/video tools, programming development, and more.',
+      title: 'BYHD Software Categories',
+      description: 'BYHD provides various types of software downloads, including system tools, office software, image processing, audio/video tools, programming development, and more.',
     }
   };
 

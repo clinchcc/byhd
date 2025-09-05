@@ -132,8 +132,8 @@ export async function generateMetadata({ params }: CategoryPageProps) {
       ? `${categoryName} List` 
       : `${categoryName}列表`,
     description: locale === 'en'
-      ? `Download ${categoryName} software from PWDJ`
-      : `陪玩电竞提供${categoryName}分类下载`,
+      ? `Download ${categoryName} software from BYHD`
+      : `BYHD提供${categoryName}分类下载`,
     alternates: {
       canonical: canonicalUrl,
     }

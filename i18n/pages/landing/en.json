@@ -3,10 +3,10 @@
   "theme": "light",
   "header": {
     "brand": {
-      "title": "PWDJ",
+      "title": "BYHD",
       "logo": {
         "src": "/logo.png",
-        "alt": "PWDJ"
+        "alt": "BYHD"
       },
       "url": "/"
     },
@@ -42,13 +42,13 @@
   "hero": {
     "title": "All Android Software Download",
     "highlight_text": "Free and Safe",
-    "description": "PWDJ means: Public Web Download Jar, we provide all android software download, free and safe.",
+    "description": "BYHD means: By Hot Download, we provide all software download, free and safe.",
     "announcement": {
       "label": "Open Source",
-      "title": "🎉 Open Source APK",
+      "title": "🎉 Open Source Software",
       "url": "/#pricing"
     },
-    "tip": "🎁 Free Android Software Download",
+    "tip": "🎁 Free Software Download",
     "buttons": [
       {
         "title": "Get Started",
@@ -110,9 +110,9 @@
   },
   "introduce": {
     "name": "introduce",
-    "title": "What is PWDJ",
+    "title": "What is BYHD",
     "label": "Introduce",
-    "description": "PWDJ is a APK software download website. Built in a variety of templates and components.",
+    "description": "BYHD is a software download website. Built in a variety of templates and components.",
     "image": {
       "src": "/imgs/features/1.png"
     },
@@ -136,7 +136,7 @@
   },
   "benefit": {
     "name": "benefit",
-    "title": "Why Choose PWDJ",
+    "title": "Why Choose BYHD",
     "label": "Benefits",
     "description": "Get everything you need to launch your software download website - from ready-to-use templates to technical support.",
     "items": [
@@ -168,7 +168,7 @@
   },
   "usage": {
     "name": "usage",
-    "title": "How to Launch with PWDJ",
+    "title": "How to Launch with BYHD",
     "description": "Get your software download website running in three simple steps:",
     "image": {
       "src": "/imgs/features/1.png"
@@ -177,15 +177,15 @@
     "text_align": "center",
     "items": [
       {
-        "title": "Get PWDJ",
-        "description": "Buy PWDJ with a one-time payment. Check your email for the code and documentation.",
+        "title": "Get BYHD",
+        "description": "Buy BYHD with a one-time payment. Check your email for the code and documentation.",
         "image": {
           "src": "/imgs/features/5.png"
         }
       },
       {
         "title": "Start Your Project",
-        "description": "Read the documentation and clone the code of PWDJ. Start building your software download website.",
+        "description": "Read the documentation and clone the code of BYHD. Start building your software download website.",
         "image": {
           "src": "/imgs/features/6.png"
         }
@@ -387,7 +387,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "starter",
-        "product_name": "PWDJ Software Download",
+        "product_name": "BYHD Software Download",
         "credits": 2000,
         "valid_months": 24
       },
@@ -415,7 +415,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "standard",
-        "product_name": "PWDJ Software Download",
+        "product_name": "Software Download",
         "credits": 20000,
         "valid_months": 50
       },
@@ -443,7 +443,7 @@
           "icon": "RiFlashlightFill"
         },
         "product_id": "premium",
-        "product_name": "PWDJ Premium Member",
+        "product_name": "Premium Member",
         "credits": 50000,
         "valid_months": 120
       }
@@ -452,14 +452,14 @@
   "testimonial": {
     "name": "testimonial",
     "label": "Testimonial",
-    "title": "What Users Say About PWDJ",
+    "title": "What Users Say About BYHD",
     "description": "Hear from developers and founders who launched their AI startups with PWDJ.",
     "icon": "GoThumbsup",
     "items": [
       {
         "title": "James Wilson",
         "label": "Android Enthusiast",
-        "description": "PWDJ is my go-to site! All Android apps are free and frequently updated. The games section is fantastic - you can find modified versions of popular games here. Absolutely love it!",
+        "description": "BYHD is my go-to site! All software are free and frequently updated. The games section is fantastic - you can find modified versions of popular games here. Absolutely love it!",
         "image": {
           "src": "/imgs/users/1.png"
         }
@@ -557,17 +557,17 @@
   "cta": {
     "name": "cta",
     "title": "Ship your first APK software",
-    "description": "Start from here, ship with PWDJ.com.",
+    "description": "Start from here, ship with BYHD.com.",
     "buttons": [
       {
-        "title": "Get PWDJ.com",
-        "url": "https://pwdj.com",
+        "title": "Get BYHD.com",
+        "url": "https://byhd.com",
         "target": "_blank",
         "icon": "GoArrowUpRight"
       },
       {
         "title": "Read Document",
-        "url": "https://pwdj.com",
+        "url": "https://byhd.com",
         "target": "_blank",
         "variant": "outline"
       }
@@ -576,15 +576,15 @@
   "footer": {
     "name": "footer",
     "brand": {
-      "title": "PWDJ.com",
-      "description": "PWDJ.com is a website for APK software.",
+      "title": "BYHD.com",
+      "description": "BYHD.com is a website for software.",
       "logo": {
         "src": "/logo.png",
-        "alt": "PWDJ.com"
+        "alt": "BYHD.com"
       },
       "url": "/"
     },
-    "copyright": "© 2025 • PWDJ.com All rights reserved.",
+    "copyright": "© 2025 • BYHD.com All rights reserved.",
     "nav": {
       "items": [
         {
@@ -677,7 +677,7 @@
         {
           "title": "Email",
           "icon": "RiMailLine",
-          "url": "mailto:support@pwdj.com",
+          "url": "mailto:support@byhd.com",
           "target": "_self"
         }
       ]
